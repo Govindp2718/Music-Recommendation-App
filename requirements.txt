@@ -6,6 +6,7 @@ scipy==1.7.1
 seaborn==0.11.2
 sklearn==0.0
 spotipy==2.19.0
+kneed==0.7.0
 statsmodels==0.12.2
 streamlit==1.9.0
 yellowbrick==1.4
